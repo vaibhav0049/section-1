@@ -29,5 +29,4 @@ const even = nums3.filter(n=> n%2==0);
 console.log(even);
 
 
-const phonelist=[
-    {bran'cad:'smasung',model:}
+
