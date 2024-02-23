@@ -28,5 +28,25 @@ const nums3=[9827,89183,238283,27862183,2812];
 const even = nums3.filter(n=> n%2==0);
 console.log(even);
 
+const phonelist=[
+    {
+        brand:"apple",
+        model:"13 pro max",
+        price:80000,
+    },
+    {
+        brand:"iqoo",
+        model:"iqoo Z7 pro",
+        price:16999,
+    },
+    {
+        brand:"vivo",
+        model:"t3",
+        price:15000,
+    }
+];
+
+
+
 
 
