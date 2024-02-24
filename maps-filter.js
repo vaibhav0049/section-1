@@ -46,6 +46,9 @@ const phonelist=[
     }
 ];
 
+const  budgetphones= phonelist.filter(n=>n.price>10000);
+console.log(budgetphones);
+
 
 
 
